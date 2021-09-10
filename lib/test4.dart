@@ -42,8 +42,8 @@ class _ExternalModelManagementWidgetState
   List<ARAnchor> anchors = [];
   String lastUploadedAnchor = "";
   AvailableModel selectedModel = AvailableModel(
-      "Duck",
-      "https://github.com/KhronosGroup/glTF-Sample-Models/raw/master/2.0/Duck/glTF-Binary/Duck.glb",
+      "Rueda",
+      "https://github.com/hernan74/ejemplo_realidad_aumentada/blob/main/assets/scene.gltf",
       "");
 
   bool readyToUpload = false;
