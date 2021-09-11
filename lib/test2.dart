@@ -80,7 +80,7 @@ class _LocalAndWebObjectsWidgetState extends State<LocalAndWebObjectsWidget> {
           showFeaturePoints: false,
           showPlanes: true,
           // customPlaneTexturePath: "Images/triangle.png",
-          showWorldOrigin: true,
+          showWorldOrigin: false,
           handleTaps: false,
         );
     this.arObjectManager.onInitialize();
@@ -92,9 +92,9 @@ class _LocalAndWebObjectsWidgetState extends State<LocalAndWebObjectsWidget> {
       this.localObjectNode = null;
     } else {
       var newNode = ARNode(
-          type: NodeType.webGLB,
-          uri: "assets/Sin título.glb",
-          scale: Vector3(0.2, 0.2, 0.2),
+          type: NodeType.localGLTF2,
+          uri: "assets/untitled.gltf",
+          scale: Vector3(0.01, 0.01, 0.01),
           position: Vector3(0.0, 0.0, 0.0),
           rotation: Vector4(1.0, 0.0, 0.0, 0.0));
       bool didAddLocalNode = await this.arObjectManager.addNode(newNode);
@@ -110,8 +110,8 @@ class _LocalAndWebObjectsWidgetState extends State<LocalAndWebObjectsWidget> {
       var newNode = ARNode(
           type: NodeType.webGLB,
           uri:
-              "https://github.com/KhronosGroup/glTF-Sample-Models/raw/master/2.0/Duck/glTF-Binary/Duck.glb",
-          scale: Vector3(0.2, 0.2, 0.2));
+              "https://github.com/hernan74/ejemplo_realidad_aumentada/blob/main/assets/test.glb",
+          scale: Vector3(0.1, 0.1, 0.2));
       bool didAddWebNode = await this.arObjectManager.addNode(newNode);
       this.webObjectNode = (didAddWebNode) ? newNode : null;
     }
