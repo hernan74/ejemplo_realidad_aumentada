@@ -12,8 +12,8 @@
    <application
         android:label="modelo_base"
         android:icon="@mipmap/ic_launcher">
-    <meta-data android:name="com.google.android.ar.API_KEY"
-               android:value="AIzaSyAq1-DrVP5snn8FbqLRBvW-WD8UDgWvMfU"/>
+    <!-- <meta-data android:name="com.google.android.ar.API_KEY"
+               android:value="AIzaSyAq1-DrVP5snn8FbqLRBvW-WD8UDgWvMfU"/> -->
        <meta-data android:name="com.google.ar.core" android:value="optional" />
         <activity
             android:name=".MainActivity"

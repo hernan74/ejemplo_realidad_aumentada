@@ -1,11 +1,11 @@
 Model Information:
-* title:	(FREE) Wheels SDC - Inspired by BBS
-* source:	https://sketchfab.com/3d-models/free-wheels-sdc-inspired-by-bbs-67a2dd4a57ec4befa0d02534f80afbb6
-* author:	SDC (https://sketchfab.com/3Duae)
+* title:	Fnaf plus bonnie fbx
+* source:	https://sketchfab.com/3d-models/fnaf-plus-bonnie-fbx-5ad429ad891a41a392f9ba76a42aed74
+* author:	Anthonyscorrales (https://sketchfab.com/Anthonyscorrales)
 
 Model License:
 * license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "(FREE) Wheels SDC - Inspired by BBS" (https://sketchfab.com/3d-models/free-wheels-sdc-inspired-by-bbs-67a2dd4a57ec4befa0d02534f80afbb6) by SDC (https://sketchfab.com/3Duae) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "Fnaf plus bonnie fbx" (https://sketchfab.com/3d-models/fnaf-plus-bonnie-fbx-5ad429ad891a41a392f9ba76a42aed74) by Anthonyscorrales (https://sketchfab.com/Anthonyscorrales) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
