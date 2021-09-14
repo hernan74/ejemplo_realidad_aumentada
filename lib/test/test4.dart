@@ -43,7 +43,7 @@ class _ExternalModelManagementWidgetState
   String lastUploadedAnchor = "";
   AvailableModel selectedModel = AvailableModel(
       "Cubo",
-      "https://github.com/hernan74/ejemplo_realidad_aumentada/blob/main/assets/cubo.glb",
+      "https://github.com/hernan74/ejemplo_realidad_aumentada/blob/main/assets/paint3d.glb",
       "");
 
   bool readyToUpload = false;
